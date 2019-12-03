@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Data\bin\Debug\netcoreapp2.2\IPT.Data.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Data\bin\Debug\netcoreapp2.2\IPT.Data.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Data\obj\Debug\netcoreapp2.2\IPT.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Data\obj\Debug\netcoreapp2.2\IPT.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Data\obj\Debug\netcoreapp2.2\IPT.Data.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Data\bin\Debug\netcoreapp2.2\IPT.Data.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Data\obj\Debug\netcoreapp2.2\IPT.Data.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Data\obj\Debug\netcoreapp2.2\IPT.Data.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Data\obj\Debug\netcoreapp2.2\IPT.Data.csprojAssemblyReference.cache

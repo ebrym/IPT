@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\bin\Debug\netcoreapp2.2\IPT.Infrastructure.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\bin\Debug\netcoreapp2.2\IPT.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\bin\Debug\netcoreapp2.2\IPT.Data.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\bin\Debug\netcoreapp2.2\IPT.Repository.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\bin\Debug\netcoreapp2.2\IPT.Repository.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\bin\Debug\netcoreapp2.2\IPT.Data.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\obj\Debug\netcoreapp2.2\IPT.Infrastructure.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\obj\Debug\netcoreapp2.2\IPT.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\obj\Debug\netcoreapp2.2\IPT.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\obj\Debug\netcoreapp2.2\IPT.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\obj\Debug\netcoreapp2.2\IPT.Infrastructure.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\bin\Debug\netcoreapp2.2\IPT.Infrastructure.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\obj\Debug\netcoreapp2.2\IPT.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\IPT\IPT.Infrastructure\obj\Debug\netcoreapp2.2\IPT.Infrastructure.pdb
